@@ -8,4 +8,4 @@ on:
 
 jobs:
   checks:
-    uses: bellflight/github-actions/.github/workflows/pre-commit_update.yml@main
+    uses: nathanvaughn/AVR-github-actions/.github/workflows/pre-commit_update.yml@main

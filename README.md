@@ -1,7 +1,7 @@
 # AVR-GUI
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Build GUI](https://github.com/bellflight/AVR-GUI/actions/workflows/build.yml/badge.svg)](https://github.com/bellflight/AVR-GUI/actions/workflows/build.yml)
+[![Build GUI](https://github.com/nathanvaughn/AVR-GUI/actions/workflows/build.yml/badge.svg)](https://github.com/nathanvaughn/AVR-GUI/actions/workflows/build.yml)
 
 ## Development
 
@@ -24,7 +24,7 @@ poetry self add poetry-pre-commit-plugin
 Now, you can clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/bellflight/AVR-GUI
+git clone https://github.com/nathanvaughn/AVR-GUI
 cd AVR-GUI
 vtr install
 ```

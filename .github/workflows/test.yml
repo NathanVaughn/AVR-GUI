@@ -12,6 +12,6 @@ permissions:
 
 jobs:
   tests:
-    uses: bellflight/github-actions/.github/workflows/avr_python_tests.yml@main
+    uses: nathanvaughn/AVR-github-actions/.github/workflows/avr_python_tests.yml@main
     with:
       coverage_directory: app/
